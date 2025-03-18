@@ -1,2 +1,2 @@
 # Teilor-scraper
-A scraper to analize data from Teilor.ro
+A crawler to analize data from Teilor.ro using scrapy.
